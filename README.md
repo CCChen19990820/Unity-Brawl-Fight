@@ -8,6 +8,4 @@ This project is to design a PC version two-player battle game which reference to
 C#, Unity3D
 ```
 ##Demo video  
-```
 Youtube: https://www.youtube.com/watch?v=iXXkX_EU1Xs
-```
